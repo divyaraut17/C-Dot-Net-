@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dot net class\\Experiment4_delegateandLanbda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6852AD0B-AF4D-2EBF-E9A2-AC90AF7A0AAA}|Experiment4_delegateandLanbda\\Experiment4_delegateandLanbda.csproj|d:\\dot net class\\experiment4_delegateandlanbda\\experiment4_delegateandlanbda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6852AD0B-AF4D-2EBF-E9A2-AC90AF7A0AAA}|Experiment4_delegateandLanbda\\Experiment4_delegateandLanbda.csproj|solutionrelative:experiment4_delegateandlanbda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dot net class\\Experiment4_delegateandLanbda\\Experiment4_delegateandLanbda\\Program.cs",
+              "RelativeDocumentMoniker": "Experiment4_delegateandLanbda\\Program.cs",
+              "ToolTip": "D:\\dot net class\\Experiment4_delegateandLanbda\\Experiment4_delegateandLanbda\\Program.cs",
+              "RelativeToolTip": "Experiment4_delegateandLanbda\\Program.cs",
+              "ViewState": "AgIAADoAAACAmJmZmZkJwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:58:40.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

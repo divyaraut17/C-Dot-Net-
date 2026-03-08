@@ -1,0 +1,10 @@
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\bin\Debug\Windows _Forms_Application.exe.config
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\bin\Debug\Windows _Forms_Application.exe
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\bin\Debug\Windows _Forms_Application.pdb
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows _Forms_Application.csproj.AssemblyReference.cache
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows__Forms_Application.Form1.resources
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows__Forms_Application.Properties.Resources.resources
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows _Forms_Application.csproj.GenerateResource.cache
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows _Forms_Application.csproj.CoreCompileInputs.cache
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows _Forms_Application.exe
+D:\dot net class\Windows _Forms_Application\Windows _Forms_Application\obj\Debug\Windows _Forms_Application.pdb

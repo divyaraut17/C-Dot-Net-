@@ -1,0 +1,14 @@
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\bin\Debug\net10.0\Experiment4_delegateandLanbda.exe
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\bin\Debug\net10.0\Experiment4_delegateandLanbda.deps.json
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\bin\Debug\net10.0\Experiment4_delegateandLanbda.runtimeconfig.json
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\bin\Debug\net10.0\Experiment4_delegateandLanbda.dll
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\bin\Debug\net10.0\Experiment4_delegateandLanbda.pdb
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.AssemblyInfoInputs.cache
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.AssemblyInfo.cs
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.csproj.CoreCompileInputs.cache
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.dll
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\refint\Experiment4_delegateandLanbda.dll
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.pdb
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\Experiment4_delegateandLanbda.genruntimeconfig.cache
+D:\dot net class\Experiment4_delegateandLanbda\Experiment4_delegateandLanbda\obj\Debug\net10.0\ref\Experiment4_delegateandLanbda.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dot net class\\Exp_5_Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2155B58-120C-4800-8405-EA2BB400B1CB}|Exp_5_Asynchronous\\Exp_5_Asynchronous.csproj|d:\\dot net class\\exp_5_asynchronous\\exp_5_asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2155B58-120C-4800-8405-EA2BB400B1CB}|Exp_5_Asynchronous\\Exp_5_Asynchronous.csproj|solutionrelative:exp_5_asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dot net class\\Exp_5_Asynchronous\\Exp_5_Asynchronous\\Program.cs",
+              "RelativeDocumentMoniker": "Exp_5_Asynchronous\\Program.cs",
+              "ToolTip": "D:\\dot net class\\Exp_5_Asynchronous\\Exp_5_Asynchronous\\Program.cs",
+              "RelativeToolTip": "Exp_5_Asynchronous\\Program.cs",
+              "ViewState": "AgIAABgAAAAAITMzMzP1vz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:51:45.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

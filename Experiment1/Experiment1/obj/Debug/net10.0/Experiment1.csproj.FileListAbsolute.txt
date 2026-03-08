@@ -1,0 +1,14 @@
+D:\dot net class\Experiment1\Experiment1\bin\Debug\net10.0\Experiment1.exe
+D:\dot net class\Experiment1\Experiment1\bin\Debug\net10.0\Experiment1.deps.json
+D:\dot net class\Experiment1\Experiment1\bin\Debug\net10.0\Experiment1.runtimeconfig.json
+D:\dot net class\Experiment1\Experiment1\bin\Debug\net10.0\Experiment1.dll
+D:\dot net class\Experiment1\Experiment1\bin\Debug\net10.0\Experiment1.pdb
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.AssemblyInfoInputs.cache
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.AssemblyInfo.cs
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.csproj.CoreCompileInputs.cache
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.dll
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\refint\Experiment1.dll
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.pdb
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\Experiment1.genruntimeconfig.cache
+D:\dot net class\Experiment1\Experiment1\obj\Debug\net10.0\ref\Experiment1.dll

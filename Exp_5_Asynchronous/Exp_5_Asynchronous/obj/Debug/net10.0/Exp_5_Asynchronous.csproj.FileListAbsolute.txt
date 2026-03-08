@@ -1,0 +1,14 @@
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\bin\Debug\net10.0\Exp_5_Asynchronous.exe
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\bin\Debug\net10.0\Exp_5_Asynchronous.deps.json
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\bin\Debug\net10.0\Exp_5_Asynchronous.runtimeconfig.json
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\bin\Debug\net10.0\Exp_5_Asynchronous.dll
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\bin\Debug\net10.0\Exp_5_Asynchronous.pdb
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.AssemblyInfoInputs.cache
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.AssemblyInfo.cs
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.csproj.CoreCompileInputs.cache
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.dll
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\refint\Exp_5_Asynchronous.dll
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.pdb
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\Exp_5_Asynchronous.genruntimeconfig.cache
+D:\dot net class\Exp_5_Asynchronous\Exp_5_Asynchronous\obj\Debug\net10.0\ref\Exp_5_Asynchronous.dll

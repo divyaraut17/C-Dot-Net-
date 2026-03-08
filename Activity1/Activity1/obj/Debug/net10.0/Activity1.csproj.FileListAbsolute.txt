@@ -1,0 +1,14 @@
+D:\dot net class\Activity1\Activity1\bin\Debug\net10.0\Activity1.exe
+D:\dot net class\Activity1\Activity1\bin\Debug\net10.0\Activity1.deps.json
+D:\dot net class\Activity1\Activity1\bin\Debug\net10.0\Activity1.runtimeconfig.json
+D:\dot net class\Activity1\Activity1\bin\Debug\net10.0\Activity1.dll
+D:\dot net class\Activity1\Activity1\bin\Debug\net10.0\Activity1.pdb
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.AssemblyInfoInputs.cache
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.AssemblyInfo.cs
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.csproj.CoreCompileInputs.cache
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.dll
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\refint\Activity1.dll
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.pdb
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\Activity1.genruntimeconfig.cache
+D:\dot net class\Activity1\Activity1\obj\Debug\net10.0\ref\Activity1.dll

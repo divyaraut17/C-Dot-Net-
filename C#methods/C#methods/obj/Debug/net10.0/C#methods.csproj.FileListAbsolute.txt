@@ -1,0 +1,14 @@
+D:\dot net class\C#methods\C#methods\bin\Debug\net10.0\C#methods.exe
+D:\dot net class\C#methods\C#methods\bin\Debug\net10.0\C#methods.deps.json
+D:\dot net class\C#methods\C#methods\bin\Debug\net10.0\C#methods.runtimeconfig.json
+D:\dot net class\C#methods\C#methods\bin\Debug\net10.0\C#methods.dll
+D:\dot net class\C#methods\C#methods\bin\Debug\net10.0\C#methods.pdb
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.AssemblyInfoInputs.cache
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.AssemblyInfo.cs
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.csproj.CoreCompileInputs.cache
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.dll
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\refint\C#methods.dll
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.pdb
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\C#methods.genruntimeconfig.cache
+D:\dot net class\C#methods\C#methods\obj\Debug\net10.0\ref\C#methods.dll

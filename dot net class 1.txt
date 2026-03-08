@@ -1,0 +1,18 @@
+-->dot net is older version 
+-->dot net core is advance version cross platform(multiple device support)
+dot net core used is mac,window,linux
+
+basic syntax of c sharp
+class Hello{
+public static void Main(){
+system.console.WriteLine("Hello World");
+}
+}
+to save dot net --> .cs
+
+
+what is CLR--> comman language runtime
+JST--> just in time compiler
+IL-->intermediate language
+
+solid principle--> 
