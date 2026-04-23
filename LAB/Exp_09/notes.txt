@@ -1,0 +1,34 @@
+WEBAPI -> It is a communication between frontend and backend
+          eg. swiggy, amazon, instagram
+
+RESTAPI -> It uses http methods, works with json 
+
+HTTP methods -> GET- fetch data
+                Post- create data
+                Put- update data
+                Delete- remove data
+
+Actvity ->
+1. What is webapi and restapi deep study with examples?
+2. Study HTTP methods with proper examples
+3. which http methods we are using
+4.what is our endpoint
+5.what respond we GET
+6.understand flow webapi with swagger
+
+webapi--communication
+controller--handler,brain
+http methods--action
+swagger--testing tool
+
+Step ->
+1. Create project sturcture
+2. Add swagger
+3. add controller amd map it in program.cs
+
+
+what we should bring ->
+push all code on git
+project frontend angular backend c#
+
+create a dropdown and in that the data should be fetch from database ie user list

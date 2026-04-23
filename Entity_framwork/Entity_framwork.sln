@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EXP-08", "EXP-08", "{068746CF-A783-DBDA-BAB5-5E20881E437C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studentCRUDAPP", "EXP-08\studentCRUDAPP\studentCRUDAPP.csproj", "{7CE5FD24-9C64-EEB9-2676-B881E5B4942D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE5FD24-9C64-EEB9-2676-B881E5B4942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE5FD24-9C64-EEB9-2676-B881E5B4942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE5FD24-9C64-EEB9-2676-B881E5B4942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE5FD24-9C64-EEB9-2676-B881E5B4942D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CE5FD24-9C64-EEB9-2676-B881E5B4942D} = {068746CF-A783-DBDA-BAB5-5E20881E437C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5305A72-37E5-40E8-9513-8C5D0BF8FE4A}
+	EndGlobalSection
+EndGlobal

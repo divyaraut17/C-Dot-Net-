@@ -1,0 +1,40 @@
+EF automatically convert
+EF remove the needed to writing sql manually,
+it allows deveolpers to interact with db using objects
+
+why we use--
+without EF sql write manually
+more chance to error
+time consuming
+
+with EF
+less code
+faster develpoment
+easy to maintain
+
+without EF --> select * from student where id =1
+with EF --> context.student.find(1)
+
+EF core--is latest,lightweight,cross platform version
+EF core is modern version on framework that work on windows,linux
+
+ORM(--it map C# clases to the database table 
+and object to row
+
+coding apporach-->
+code 1st apporach -- create class database create automatically
+start with coding ,db created automatically.
+database 1st apporach -- database is already exists,generate c# clases from database
+
+flow--
+database context--main class that connect your application to db 
+--ex public dbset<students>student{get;set;}--
+
+dbset-->represent table in db
+migration--> is used to create or update db structure automatically.
+
+
+activity
+what is CRUD operation?
+what is http methods?
+ 
