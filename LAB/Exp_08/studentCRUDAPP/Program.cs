@@ -12,7 +12,7 @@ class Program
             // CREATE
             var student = new Student
             {
-                Name = "Aman",
+                Name = "divya",
                 Age = 22,
                 Course = "IT"
             };
@@ -32,7 +32,7 @@ class Program
             var firstStudent = context.Students.FirstOrDefault();
             if (firstStudent != null)
             {
-                firstStudent.Name = "Updated Shivani";
+                firstStudent.Name = "Updated Divya";
                 context.SaveChanges();
                 Console.WriteLine("Student Updated!");
             }
